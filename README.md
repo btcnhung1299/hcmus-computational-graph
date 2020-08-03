@@ -6,4 +6,4 @@ In this assignment, I implemented a simple computational graph which supports ba
 
 It is allowed to compute both values and derivations on the graph.
 
-Note: For simplicity's sake, the implementaion only works with <b>scalar</b>.
+Note: For simplicity's sake, the implementaion only works with <b>scalars</b>.
