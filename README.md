@@ -1,4 +1,4 @@
-# Create a Simple Computational Graph
+# Simple Computational Graph
 
 In this assignment, I implemented a simple computational graph which supports basic arithmetic operations:
 - Ternary operations:  <img src="https://latex.codecogs.com/png.latex?\inline&space;&plus;,&space;-,&space;*,&space;/" title="+, -, *, /" />
